@@ -1,2 +1,2 @@
 # ShowTimes
-![](example-gif.gifv)
+![](example-gif.gif)
