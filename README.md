@@ -1,2 +1,2 @@
 # ShowTimes
-https://i.imgur.com/taivfNq.gifv
+![](example-gif.gifv)
