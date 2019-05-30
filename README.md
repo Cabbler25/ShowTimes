@@ -1,5 +1,7 @@
 # ShowTimes
-![](example-gif.gif)
+Standalone app that allows user to search IMDB and track their favorite television shows.
+
+![](example.gif)
 
 CREDITS:
 
