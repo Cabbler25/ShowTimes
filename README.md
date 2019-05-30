@@ -1,5 +1,5 @@
 # ShowTimes
-Standalone app that allows user to search IMDB and track their favorite television shows. Executable jar for testing found [here](https://github.com/Cabbler25/ShowTimes/blob/master/sample%20executable%20jar.zip).
+Standalone app that allows user to search IMDB and track their favorite television shows. Compilable in Eclipse or executable jar for testing found [here](https://github.com/Cabbler25/ShowTimes/blob/master/sample%20executable%20jar.zip).
 
 ![](example.gif)
 
